@@ -1,5 +1,5 @@
 <h1 align="center">👋 Soy Taiel</h1>
-<h3 align="center">Software developer & Service Desk Senio </h3>
+<h3 align="center">Software developer & Service Desk Senior </h3>
 
 
 <br />
